@@ -1,6 +1,6 @@
 #single page design ecomerce 
 ..
-prctice file 
+prcatice file 
 
 # Getting Started with Create React App
 
